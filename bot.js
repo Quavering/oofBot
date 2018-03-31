@@ -64,4 +64,4 @@ Client.on('message', (message)=>{
         }
 })
 
-Client.login("process.env.NDI5NjA4NjUxMTkyNDAxOTIw.DaEaYQ.Nv5fm6ILA-8GIqUpPkUKULtEyC0");
+Client.login("process.env.BOT_TOKEN");
